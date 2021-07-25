@@ -77,7 +77,9 @@ Bootcamp focado em engenharia de dados com Cloud, crie soluções Python, uma da
  🎯 <a href="https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path" target="_blank">Bootcamp Cognizant Cloud Data Engineer</a>
 <br>
 
-👨‍💼🔮 **<a href="https://linktr.ee/ygtecnologia">Me siga nas redes sociais</a>**
+### Me siga nas redes sociais 
+
+👨‍💼🔮  https://linktr.ee/ygtecnologia 
 <br>
 <br> 
 “Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
