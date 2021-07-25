@@ -72,12 +72,12 @@ Bootcamp focado em engenharia de dados com Cloud, crie soluções Python, uma da
    <br>
 
 
-## Link deste curso  💻
+## Link deste curso  
 
  🎯 <a href="https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path" target="_blank">Bootcamp Cognizant Cloud Data Engineer</a>
 <br>
 
-### Me siga nas redes sociais 
+## Me siga nas redes sociais 
 
 👨‍💼🔮  https://linktr.ee/ygtecnologia 
 <br>
