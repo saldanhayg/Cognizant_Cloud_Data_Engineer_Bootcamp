@@ -1,22 +1,31 @@
-# 💻   Introducao ao Big Data e Hadoop
+# 💻   Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala
 
 <h1>
-   <img src="https://i.ibb.co/jg0qdDP/882FE017.jpg" border="0">
+   <img src="https://tinyurl.com/46884mhz" border="0">
 </h1>
 
-Conheça o conceito de Big data de maneira prática e como utilizar o Hadoop, um software open-source para armazenar dados e executar aplicações em clusters de hardwares comuns.
-
-## Aulas desse curso:
-✅ **Conceitos iniciais sobre dados e Big Data**<br>
-✅ **Introdução ao Hadoop e Componentes de Big Data**<br>
-
-## Link deste curso  💻
-
- 🎯 <a href="https://digitalinnovation.one/cursos/introducao-ao-big-data-e-hadoop?ref=certificate/882FE017" target="_blank">Introducao ao Big Data e Hadoop</a>
-
+Abstraia o armazenamento e execução de consultas a bancos de dados relacionais (SQL) em ambientes Hadoop. Nesse contexto, o expert apresenta na prática as ferramentas Apache Hive e Apache Impala.
 <br>
 <br>
-[Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
+Este curso tem como material complementar uma Máquina Virtual (VM) preparada com as principais ferramentas e configurações para o acompanhamento das atividades práticas, a VM pode ser obtida pelo seguinte link:
+<br>
+https://drive.google.com/file/d/1CsHc311jp4EuZ8be5KGaumniGAafa8sC/view?usp=sharing
+
+## Link deste Bootcamp
+
+ 🎯 <a href="https://digitalinnovation.one/sign-up?ref=EDH1OJTU7E" target="_blank">Cognizant Cloud Data Engineer</a>
 <br>
 <br> 
-🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏  
+***Cadastre-se no site para ter acesso a plataforma***
+
+
+## Me siga nas redes sociais
+
+👨‍💼🔮  https://linktr.ee/ygtecnologia 
+<br>
+<br> 
+<br> 
+“Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
+<br>
+<br> 
+🙏 Oração ! Foco ! Ação ! Yeshua Hamashia 

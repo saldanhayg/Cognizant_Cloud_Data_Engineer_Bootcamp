@@ -1,27 +1,61 @@
-# 💻   Introdução ao Big Data e Hadoop
+# 💻   Fundamentos de ETL com Python
 
 <h1>
-   <img src="https://i.ibb.co/Pj6FnH4/882FE017.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/saldanhayg/Certificados/main/CURSOS/BI/PYTHON/Fundamentos%20de%20ETL%20com%20Python.jpg" border="0">
 </h1>
 
-Conheça o conceito de Big data de maneira prática e como utilizar o Hadoop, um software open-source para armazenar dados e executar aplicações em clusters de hardwares comuns.
+Fundamentos de ETL com Python e o processo de Extract Transform and Load (ETL) e como transformar seus dados e deixa-los prontos para seus projetos.
 
+<h2>
+   <img src="https://i.ibb.co/tP3Y57d/1.jpg" alt="1" border="0">
+</h2>
+<br>
 
-## Sobre: 
+## Aulas do Curso : 
 
 Tópicos co curso :<br>
-✅ **Conceitos iniciais sobre dados e big data**<br>
-✅ **Introdução ao Hadoop e Componentes de Big Data**<br>
+✅ **Fundamentos de ETL**<br>
+✅ **Prepração do projeto ETL**<br>
+✅ **Desenvolvimento do projeto ETL - Extração e validação**<br>
+✅ **Entenda passo a passoa as preocupações na hora de extrair seus dados.**<br>
+✅ **Desenvolvimento do projeto ETL - Limpeza**<br>
+✅ **Desenvolvimento do projeto ETL - Transformação**<br>
 
-
-
-## Link deste curso  💻
-
- 🎯 <a href="https://digitalinnovation.one/cursos/introducao-ao-big-data-e-hadoop?ref=certificate/882FE017" target="_blank">Introdução ao Big Data e Hadoop</a>
-
+<h2>
+   <img src="https://i.ibb.co/37G3qYK/pROJETO.png" alt="pROJETO" border="0">
+</h2>
 <br>
+
+<h2>
+   <img src="https://i.ibb.co/KD2tvtH/Limpez.png" alt="Limpez" border="0">
+</h2>
 <br>
-[Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
+
+<h2>
+<img src="https://i.ibb.co/H4HtYhF/Transforma-o.jpg" alt="Transforma-o" border="0">
+</h2>
+<br>
+
+<h2>
+   <img src="https://i.ibb.co/ZKSGrM5/2.jpg" alt="2" border="0">
+</h2>
+<br>
+
+## Link deste Bootcamp
+
+ 🎯 <a href="https://digitalinnovation.one/sign-up?ref=EDH1OJTU7E" target="_blank">Cognizant Cloud Data Engineer</a>
 <br>
 <br> 
-🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏  
+***Cadastre-se no site para ter acesso a plataforma***
+
+
+## Me siga nas redes sociais
+
+👨‍💼🔮  https://linktr.ee/ygtecnologia 
+<br>
+<br> 
+<br> 
+“Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
+<br>
+<br> 
+🙏 Oração ! Foco ! Ação ! Yeshua Hamashia 

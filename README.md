@@ -36,9 +36,9 @@ Bootcamp focado em engenharia de dados com Cloud, crie soluções Python, uma da
 ✅ **<a href="">Desafios matemáticos em Python</a>** <br>
 
 ## PROJETOS deste BOOTCAMP
-✅ **<a href="">Análise de dados com Python e Pandas</a>** <br>
-✅ **<a href="">Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc</a>** <br>
-✅ **<a href="">Criando seu Ecossistema de Big Data na Nuvem</a>** <br>
+✅ **<a href="https://tinyurl.com/3hymazyx">Análise de dados com Python e Pandas</a>** <br>
+✅ **<a href="https://tinyurl.com/4bu65yux">Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc</a>** <br>
+✅ **<a href="https://github.com/saldanhayg/Ecossistema_AWS_Big_Data">Criando seu Ecossistema de Big Data na Nuvem</a>** <br>
   
 ## MENTORIAS deste BOOTCAMP 
  
