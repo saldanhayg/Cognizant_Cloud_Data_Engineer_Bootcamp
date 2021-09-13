@@ -19,7 +19,7 @@ Bootcamp focado em engenharia de dados com Cloud, crie soluções Python, uma da
 ✅ **<a href="https://certificates.digitalinnovation.one/DE9EC992">Introducao a orquestracao de conteineres com Docker</a>** <br>
 ✅ **<a href="https://tinyurl.com/jjap78je">Conceitos e melhores praticas com bancos de dados PostgreSQL</a>** <br>
 ✅ **<a href="https://tinyurl.com/w2v4xz8m">Introducao ao MongoDB e Bancos de Dados NoSQL</a>** <br>
-✅ **<a href="">Explorando o poder do NoSQL com Cassandra e Hbase</a>** <br>
+✅ **<a href="https://tinyurl.com/ewmmt5fx">Explorando o poder do NoSQL com Cassandra e Hbase</a>** <br>
 ✅ **<a href="https://tinyurl.com/49szty6u">Introducao a programacao com Python</a>** <br>
 ✅ **<a href="https://tinyurl.com/4fj2kjmw">Fundamentos de ETL com Python</a>** <br>
 ✅ **<a href="https://tinyurl.com/v98vdz45">Monitoramento de clusters Hadoop de alto nível com HDFS e YARN</a>** <br>
