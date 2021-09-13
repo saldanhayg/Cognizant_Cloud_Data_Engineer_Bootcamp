@@ -27,7 +27,7 @@ Bootcamp focado em engenharia de dados com Cloud, crie soluções Python, uma da
 ✅ **<a href="https://tinyurl.com/8rpw4ef2">Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala</a>** <br>
 ✅ **<a href="https://tinyurl.com/479ju78n">Processando grandes conjuntos de dados de forma paralela e distribuída com Spark</a>** <br>
 ✅ **<a href="https://tinyurl.com/y3zsyfj7">Criando pipelines de dados eficientes com Spark e Python</a>** <br>
-✅ **<a href="">Introdução a Engenharia de Dados na AWS</a>** <br>
+✅ **<a href="https://tinyurl.com/64mf2mbu">Introdução a Engenharia de Dados na AWS</a>** <br>
 ✅ **<a href="">Introdução a Engenharia de Dados na Azure</a>** <br>
 ✅ **<a href="">Introdução à Mensageria na Nuvem Com Kafka e Python</a>** <br>
 
