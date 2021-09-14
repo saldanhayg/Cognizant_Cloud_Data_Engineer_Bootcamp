@@ -22,7 +22,7 @@ azure.microsoft.com/pt-br/overview/what-is-cloud-computing <br>
 azure.microsoft.com/pt-br/overview/azure-vs-aws <br>
 Aka.ms/traincertposter <br>
 Aka.ms/azurecerts_dataengineer <br>
-www.microsoft.com/en-us/trainingdays <br>
+microsoft.com/en-us/trainingdays <br>
 docs.microsoft.com/pt-br/learn/modules/explore-data-ingestion-azure <br>
 docs.microsoft.com/pt-br/azure/data-factory <br>
 docs.microsoft.com/pt-br/azure/data-factory/data-flow-cr <br>
