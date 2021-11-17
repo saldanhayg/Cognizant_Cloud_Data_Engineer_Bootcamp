@@ -7,8 +7,11 @@ Bootcamp focado em engenharia de dados com Cloud, crie soluções Python, uma da
 </h1>
 <br>
 <h1>
-   <img src="https://i.ibb.co/qkDpw3F/337D7583.jpg" alt="Bootcamp Cognizant Cloud Data Engineer" border="0">
+   <img src="https://tinyurl.com/jy3z48" alt="Bootcamp Cognizant Cloud Data Engineer" border="0">
 </h1>
+
+
+
 
 ## CURSOS deste BOOTCAMP
 ✅ **<a href="https://certificates.digitalinnovation.one/200FFE59">Introducao ao Git e ao GitHub</a>** <br>
