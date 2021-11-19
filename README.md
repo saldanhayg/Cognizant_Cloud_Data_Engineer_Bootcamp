@@ -43,32 +43,32 @@ Bootcamp focado em engenharia de dados com Cloud, crie soluções Python, uma da
     Conheça os conceitos essenciais sobre Engenharia de Dados, uma das áreas de atuação em maior ascensão no mercado atualmente.<br>
     Luis Dorsa - 16/08/2021<br>
 	 https://www.youtube.com/watch?v=N69xQc4UeP4
-   <br>
+   <br><br>
 ✔  Porque Compreender a Arquitetura das Aplicações é Essencial na Engenharia de Dados<br>
    Entenda a importâncias das diferentes arquiteturas de sistemas (REST, Event Driven, Microservices etc)no contexto da Engenharia de Dados.<br>
    Rosangela Locatelli - 30/08/2021<br>
    https://www.youtube.com/watch?v=S6E06xG8jaY
-   <br>
+   <br><br>
 ✔  Entenda a Importância dos Bancos de Dados SQL e NoSQL para a Engenharia de Dados<br>
    Aprenda um pouco mais sobre os dois principais tipos de Banco de Dados: Relacionais (SQL) e Não Relacionais (NoSQL). Além disso, entenda como cada um pode ser explorado na Engenharia de Dados.<br>
    Rodrigo Regalo - 13/09/2021<br>
    https://www.youtube.com/watch?v=fZEOoZQn_e0
-   <br>
+   <br><br>
 ✔  Por que o Python é uma das Linguagens de Programação Mais Relevantes do momento?<br>
    Conheça as principais características da linguagem de programação Python que a tornam a mais utilizada no contexto da Engenharia de Dados<br>
    Jonnathans Pereira - 27/09/2021<br>
    https://www.youtube.com/watch?v=3bK_wuLYYK8
-   <br>
+   <br><br>
 ✔  Conheça o Ecossistema Hadoop na Prática<br>
    Aprenda um pouco mais sobre a plataforma open-source Apache Hadoop, um framework que permite o processamento distribuído de grandes conjuntos de dados em clusters.<br>
    Leonardo Molaro - 13/10/2021<br>
    https://www.youtube.com/watch?v=TKB81iV3LWI
-   <br>
+   <br><br>
 ✔  Explore o poder da Engenharia de Dados na Nuvem<br>
    Entenda as possibilidade oriundas da computação em nuvem no contexto da Engenharia de Dados, além de conhecer algumas ferramentas relevantes nesse contexto.<br>
    Luis Dorsa - 27/10/2021<br>
    https://www.youtube.com/watch?v=k7rF-NA_ywg
-   <br>
+   <br><br>
 ✔  O que você precisa saber para se tornar um desenvolvedor de sucesso na Cognizant<br>
    Entenda quais são as principais soft skills necessárias para se tornar desenvolvedor de sucesso na Cognizant.<br>
    Luis Dorsa - 03/11/2021<br>
